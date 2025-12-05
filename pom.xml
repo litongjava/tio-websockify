@@ -15,12 +15,12 @@
     <fastjson2.version>2.0.52</fastjson2.version>
 
     <hotswap-classloader.version>1.2.6</hotswap-classloader.version>
-    <tio-boot.version>2.0.1</tio-boot.version>
+    <tio-boot.version>2.0.4</tio-boot.version>
 
 
     <!-- 应用程序属性 -->
     <final.name>web-hello</final.name>
-    <main.class>com.litongjava.test.HelloApp</main.class>
+    <main.class>com.litongjava.websockify.WebsocketIfyApp</main.class>
   </properties>
 
   <dependencies>
