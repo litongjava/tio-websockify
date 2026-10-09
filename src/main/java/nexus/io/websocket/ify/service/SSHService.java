@@ -1,8 +1,8 @@
-package com.litongjava.websockify.service;
+package nexus.io.websocket.ify.service;
 
-import com.litongjava.tio.utils.base64.Base64Utils;
-import com.litongjava.tio.utils.json.JsonUtils;
-import com.litongjava.websockify.vo.SSHTarget;
+import nexus.io.tio.utils.base64.Base64Utils;
+import nexus.io.tio.utils.json.JsonUtils;
+import nexus.io.websocket.ify.vo.SSHTarget;
 
 public class SSHService {
 

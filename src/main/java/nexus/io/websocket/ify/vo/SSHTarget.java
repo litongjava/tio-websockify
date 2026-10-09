@@ -1,4 +1,4 @@
-package com.litongjava.websockify.vo;
+package nexus.io.websocket.ify.vo;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

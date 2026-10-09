@@ -1,7 +1,7 @@
-package com.litongjava.websockify;
+package nexus.io.websocket.ify;
 
-import com.litongjava.tio.boot.TioApplication;
-import com.litongjava.websockify.config.WebHelloConfig;
+import nexus.io.tio.boot.TioApplication;
+import nexus.io.websocket.ify.config.WebHelloConfig;
 
 public class WebsocketIfyApp {
   public static void main(String[] args) {
